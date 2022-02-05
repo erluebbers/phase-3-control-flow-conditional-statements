@@ -22,7 +22,7 @@ end
 
 def fizzbuzz(num)
   if num/3 == "integer"
-    num/3
+    "Fizz"
   elsif num/5 == "integer"
     "Buzz"
   else  
